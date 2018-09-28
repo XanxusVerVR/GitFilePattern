@@ -706,5 +706,8 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+### NotepadPP ###
+# Notepad++ backups #
+*.bak
 
 # End of https://www.gitignore.io/api/linux,macos,windows,eclipse,webstorm,netbeans,sublimetext,intellij+all,visualstudio,visualstudiocode,openframeworks+visualstudio
