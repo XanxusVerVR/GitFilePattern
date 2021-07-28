@@ -825,3 +825,9 @@ Backup of *.doc*
 
 # Visio autosave temporary files
 *.~vsd*
+
+#Helm
+Chart.lock
+charts/
+tmpcharts/
+**/*.tgz
