@@ -11,6 +11,10 @@
 .gitignore      text
 *.md            text diff=markdown
 *.txt           text
+*.tpl           text
+*.yaml          text
+*.yml           text
+.helmignore     text
 
 #
 # Exclude files from exporting
