@@ -827,7 +827,5 @@ Backup of *.doc*
 *.~vsd*
 
 #Helm
-Chart.lock
-charts/
 tmpcharts/
 **/*.tgz
